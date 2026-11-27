@@ -68,8 +68,7 @@
 
 ### 📊 Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Nafisasaiyara&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nafisasaiyara&theme=dark&hide_border=false)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Nafisaiyara&layout=compact&langs_count=4&theme=swift)](https://github-stats-extended.vercel.app/api/top-langs?username=Nafisaiyara&layout=compact&langs_count=4&theme=swift)
 <br/>
 
 #
