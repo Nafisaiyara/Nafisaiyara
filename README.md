@@ -1,5 +1,9 @@
 [![](https://visitcount.itsvg.in/api?id=nafisa-saiyara&icon=0&color=0)](https://visitcount.itsvg.in)
-[<img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/nafisa-saiyara/)</br>
+[<img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/nafisa-saiyara/)
+<a href="https://www.kaggle.com/nafisasaiyara">
+  <img align="left" alt="Kaggle" width="40px" style="padding-right:10px;" src="https://cdn.simpleicons.org/kaggle/20BEFF" />
+</a>
+</br>
 
 # Nafisa Saiyara
 
