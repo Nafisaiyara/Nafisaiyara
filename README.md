@@ -68,7 +68,10 @@
 
 ### 📊 Stats
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Nafisaiyara&layout=compact&langs_count=4&theme=swift)](https://github-stats-extended.vercel.app/api/top-langs?username=Nafisaiyara&layout=compact&langs_count=4&theme=swift)
+
+[![](https://github-stats-extended.vercel.app/api/top-langs?username=Nafisaiyara&layout=compact&langs_count=4&theme=swift)](https://github-stats-extended.vercel.app/api/top-langs?username=Nafisaiyara&layout=compact&langs_count=4&theme=swift)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Nafisaiyara&theme=swift&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Nafisaiyara&theme=swift&hide_border=false)<br/>
 <br/>
 
 #
